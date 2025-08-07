@@ -1,0 +1,18 @@
+{
+  "": [
+    "⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    0.2235264019697491
+  ],
+  "Exception": [
+    "⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    0.2235264019697491
+  ],
+  "Error occur during file transfer:": [
+    "⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    0.1863487676040808
+  ],
+  "The ej file current offset values (91) is less than the file pointer (115507). Preparing to reset the filepointers...": [
+    "⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    0.2235264019697491
+  ]
+}
